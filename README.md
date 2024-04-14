@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Kanahia from India<br><br>- 🔭 I’m currently student at IIT PATNA<br>- 📚 I'm currently exploring AR/VR<br>- ⚡ In my free time I love to watch movies</p>
+<p align="left">I'm Kanahia from India<br><br>- 🔭 I’m currently student at IIT PATNA<br>- 📚 I'm currently exploring AR/VR & Blockchain<br>- ⚡ In my free time I love to watch movies</p>
 
 ###
 
